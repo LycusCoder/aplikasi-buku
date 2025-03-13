@@ -11,7 +11,7 @@
 2. **Buat Repositori GitHub**:
     - Buka [GitHub](https://github.com) dan login.
     - Klik tombol **New repository**.
-    - Beri nama repositori (misalnya: `aplikasi-buku`).
+    - Beri nama repositori (misalnya: aplikasi-buku).
     - Pilih visibilitas (public/private).
     - Jangan centang "Initialize this repository with a README" (karena kita akan upload proyek lokal).
 
@@ -178,4 +178,3 @@ Proyek ini dilisensikan di bawah [MIT License](LICENSE.md).
 2. Pastikan semua file terupload dan `README.md` tampil dengan baik.
 
 ---
-
